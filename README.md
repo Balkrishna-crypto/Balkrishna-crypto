@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Balkrishna-crypto
 - 👀 I’m interested in python,cyber security and Machine learning.
 - 🌱 I’m currently involve in QA.
-- 💞️ I’m looking to collaborate on Machine learning, Cloud or QA.
+- 💞️ I’m looking to collaborate on Machine learning, Cloud,Cybersecurity and QA.
 - 📫 How to reach me ...You can mail me at balkrishnaoli98@gmail.com
 
 <!---
